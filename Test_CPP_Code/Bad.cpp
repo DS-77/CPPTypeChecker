@@ -11,6 +11,7 @@ Professor: Dr Marco Valtorta
 int main(int argc, char* argv[]) {
     int n = 26;
 
+    // Will produce an error
     while n--;
 
     if (n < 20) {

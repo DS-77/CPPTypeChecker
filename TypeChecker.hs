@@ -3,8 +3,6 @@
 -- Author Deja S.
 -- Course: CSCE 531 J50
 -- Professor: Dr Marcos Valtorta
-{-# OPTIONS_GHC -Wno-incomplete-patterns #-}
-{-# OPTIONS_GHC -Wno-overlapping-patterns #-}
 
 module TypeChecker where
 
